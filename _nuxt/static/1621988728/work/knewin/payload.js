@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/work/knewin", {data:[{}],fetch:{},mutations:[["setColor","#126FF4"],["setFontColor","#FFFFFF"]]});

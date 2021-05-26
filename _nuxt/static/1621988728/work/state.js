@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002Fahmed-kleit\u002F_nuxt\u002Fstatic\u002F1621988728",layout:"default",error:a,state:{color:"#BCF3EA",fontColor:"#1C4752"},serverRendered:true,routePath:"\u002Fwork",config:{app:{basePath:"\u002Fahmed-kleit\u002F",assetsPath:"\u002Fahmed-kleit\u002F_nuxt\u002F",cdnURL:a}}}}(null));
