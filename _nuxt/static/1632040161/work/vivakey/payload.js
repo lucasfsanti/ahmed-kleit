@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/work/vivakey", {data:[{}],fetch:{},mutations:[["setColor","#163651"],["setFontColor","#84CCE5"],["setButtonColor","#FFFFFF"]]});
